@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on flash122u&#39;s blog</title>
+    <link>https://flash122u.github.io/tags/</link>
+    <description>Recent content in Tags on flash122u&#39;s blog</description>
+    <image>
+      <title>flash122u&#39;s blog</title>
+      <url>https://flash122u.github.io/images/avatar.png</url>
+      <link>https://flash122u.github.io/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Jan 2026 22:51:41 +0800</lastBuildDate>
+    <atom:link href="https://flash122u.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ambassador Program</title>
+      <link>https://flash122u.github.io/tags/ambassador-program/</link>
+      <pubDate>Tue, 13 Jan 2026 22:51:41 +0800</pubDate>
+      <guid>https://flash122u.github.io/tags/ambassador-program/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mod</title>
+      <link>https://flash122u.github.io/tags/mod/</link>
+      <pubDate>Tue, 13 Jan 2026 22:51:41 +0800</pubDate>
+      <guid>https://flash122u.github.io/tags/mod/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web3</title>
+      <link>https://flash122u.github.io/tags/web3/</link>
+      <pubDate>Tue, 13 Jan 2026 22:51:41 +0800</pubDate>
+      <guid>https://flash122u.github.io/tags/web3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ETH</title>
+      <link>https://flash122u.github.io/tags/eth/</link>
+      <pubDate>Mon, 12 Jan 2026 10:30:00 +0800</pubDate>
+      <guid>https://flash122u.github.io/tags/eth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Solidity</title>
+      <link>https://flash122u.github.io/tags/solidity/</link>
+      <pubDate>Mon, 12 Jan 2026 10:30:00 +0800</pubDate>
+      <guid>https://flash122u.github.io/tags/solidity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://flash122u.github.io/tags/hugo/</link>
+      <pubDate>Mon, 05 Jan 2026 10:30:00 +0800</pubDate>
+      <guid>https://flash122u.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

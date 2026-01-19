@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ETH on flash122u&#39;s blog</title>
+    <link>https://flash122u.github.io/tags/eth/</link>
+    <description>Recent content in ETH on flash122u&#39;s blog</description>
+    <image>
+      <title>flash122u&#39;s blog</title>
+      <url>https://flash122u.github.io/images/avatar.png</url>
+      <link>https://flash122u.github.io/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Jan 2026 10:30:00 +0800</lastBuildDate>
+    <atom:link href="https://flash122u.github.io/tags/eth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solidity 学习记录_2_数据类型</title>
+      <link>https://flash122u.github.io/posts/learn_solidity_2/</link>
+      <pubDate>Mon, 12 Jan 2026 10:30:00 +0800</pubDate>
+      <guid>https://flash122u.github.io/posts/learn_solidity_2/</guid>
+      <description>记录 Solidity 学习 2</description>
+    </item>
+    <item>
+      <title>Solidity 学习记录_1</title>
+      <link>https://flash122u.github.io/posts/learn-solidity/</link>
+      <pubDate>Sat, 10 Jan 2026 10:30:00 +0800</pubDate>
+      <guid>https://flash122u.github.io/posts/learn-solidity/</guid>
+      <description>记录 Solidity 学习 1</description>
+    </item>
+  </channel>
+</rss>

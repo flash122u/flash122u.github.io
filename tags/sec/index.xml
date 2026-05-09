@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sec on flash122u&#39;s blog</title>
+    <link>https://flash122u.github.io/tags/sec/</link>
+    <description>Recent content in Sec on flash122u&#39;s blog</description>
+    <image>
+      <title>flash122u&#39;s blog</title>
+      <url>https://flash122u.github.io/images/avatar.png</url>
+      <link>https://flash122u.github.io/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Mar 2026 10:30:00 +0800</lastBuildDate>
+    <atom:link href="https://flash122u.github.io/tags/sec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用 VMware 和 VirtualBox 搭建靶机环境</title>
+      <link>https://flash122u.github.io/posts/how-to-build-vm/</link>
+      <pubDate>Sat, 07 Mar 2026 10:30:00 +0800</pubDate>
+      <guid>https://flash122u.github.io/posts/how-to-build-vm/</guid>
+      <description>记录靶机环境搭建过程</description>
+    </item>
+  </channel>
+</rss>

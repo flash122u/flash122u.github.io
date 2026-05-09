@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>  on flash122u&#39;s blog</title>
+    <link>https://flash122u.github.io/tags/-/</link>
+    <description>Recent content in   on flash122u&#39;s blog</description>
+    <image>
+      <title>flash122u&#39;s blog</title>
+      <url>https://flash122u.github.io/images/avatar.png</url>
+      <link>https://flash122u.github.io/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 May 2026 11:56:20 +0800</lastBuildDate>
+    <atom:link href="https://flash122u.github.io/tags/-/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Codex 登录报错：token_exchange_failed 解决</title>
+      <link>https://flash122u.github.io/posts/codex-error-token-exchange-failed/</link>
+      <pubDate>Sat, 09 May 2026 11:56:20 +0800</pubDate>
+      <guid>https://flash122u.github.io/posts/codex-error-token-exchange-failed/</guid>
+      <description>记录 </description>
+    </item>
+  </channel>
+</rss>
